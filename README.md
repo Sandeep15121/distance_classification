@@ -8,7 +8,7 @@ Minkowski Distance: A generalization that includes Euclidean and Manhattan dista
 Cosine Similarity: Measures the cosine of the angle between two vectors; often converted to a distance measure.
 Hamming Distance: The number of positions at which the corresponding symbols are different, used for categorical or binary data.
 
-2. What are some real-world applications of distance-based classification algorithms?
+# 2. What are some real-world applications of distance-based classification algorithms?
 
 The Real-world applications of distance-based classification are:
 Face and Object Recognition: Classifying faces in images and objects in scenes.
